@@ -1,16 +1,24 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Brianna
 =======================================================================================================================================
 
-Soc Analyst | Security+ In progress | Blue Team Focused
+IT Support & Systems Administration | Windows Server • Identity (Okta) • CompTIA A+ in Progress
 -------------------------------------------------------
 
-SOC-focused cybersecurity professional building hands-on security labs centered on Windows event log analysis, authentication investigations, and incident response fundamentals. I simulate real-world attack scenarios, analyze security events, and document findings in structured investigation reports. Currently preparing for CompTIA Security+ while advancing my Cloud & Networking education at WGU. Focused on securing an entry-level remote SOC role and growing into incident response and detection engineering.
+I am building foundational IT skills through hands-on lab environments focused on Windows Server administration, identity & access management, and system troubleshooting.
+I create and document practical projects to strengthen my understanding of operating systems, authentication workflows, user provisioning, and infrastructure basics.
+
+Through independent virtual lab environments, I have:
+* Built and maintained Windows Server and Windows 10 virtual machines
+* Configured identity and access management using Okta
+* Tested user provisioning, MFA policies, and authentication workflows
+* Monitored Windows security events and analyzed logs
+* Documented troubleshooting processes and remediation steps
 
 * 🌍  I'm based in Virginia (Open to Remote Opportunities)
 * ✉️  You can contact me at [irving.brianna.s@gmail.com](mailto:irving.brianna.s@gmail.com)
-* 🧠  I'm currently learning Security+ (March 2026), Windows Event Log Analysis, Threat Detection Fundamentals, Cloud Networking Basics
-* 👥  I'm looking to collaborate on Blue Team Labs, SOC Simulation Projects, Beginner-Friendly Cybersecurity Projects
-* 💬  Ask me about Actively building my cybersecurity portfolio in public and breaking into the industry one lab at a time.
+* 🧠  I'm currently learning CompTIA A+ (March 2026), Windows Server Labs, Windows Event Log Analysis, Threat Detection Fundamentals, Networking Basics
+* 👥 Open to IT Support, Help Desk, and Junior Systems Administration opportunities
+* 💬 Actively developing hands-on skills in Windows administration and identity management
 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a>
