@@ -4,8 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 IT Support & Systems Administration | Windows Server • Identity (Okta) • CompTIA A+ in Progress
 -------------------------------------------------------
 
-I am building foundational IT skills through hands-on lab environments focused on Windows Server administration, identity & access management, and system troubleshooting.
-I create and document practical projects to strengthen my understanding of operating systems, authentication workflows, user provisioning, and infrastructure basics.
+I am building foundational IT skills through hands-on lab environments focused on Windows Server administration, identity & access management, and system troubleshooting. I document practical projects that strengthen operating system, authentication, and infrastructure fundamentals.
 
 ### Through independent virtual lab environments, I have:
 
@@ -15,11 +14,11 @@ I create and document practical projects to strengthen my understanding of opera
 - Monitored Windows security events and analyzed logs  
 - Documented troubleshooting processes and remediation steps  
 
-* 🌍  I'm based in Virginia (Open to Remote Opportunities)
-* ✉️  You can contact me at [irving.brianna.s@gmail.com](mailto:irving.brianna.s@gmail.com)
-* 🧠  I'm currently learning CompTIA A+ (March 2026), Windows Server Labs, Windows Event Log Analysis, Threat Detection Fundamentals, Networking Basics
+* 📍 Based in Virginia | Open to Onsite & Remote Opportunities
+* ✉️ You can contact me at [irving.brianna.s@gmail.com](mailto:irving.brianna.s@gmail.com)
+* 🧠 Currently preparing for CompTIA A+ and strengthening Windows & networking fundamentals
 * 👥 Open to IT Support, Help Desk, and Junior Systems Administration opportunities
-* 💬 Actively developing hands-on skills in Windows administration and identity management
+* 💬 Focused on developing strong troubleshooting and Windows administration skills
 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a>
